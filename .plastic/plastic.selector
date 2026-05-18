@@ -1,0 +1,4 @@
+repository "Cutscene Dialogs/Cutscene Dialogs@1375650799114@cloud"
+  path "/"
+    br "/main"
+    co "/main"
