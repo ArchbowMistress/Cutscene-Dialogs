@@ -347,34 +347,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1181608605}
   lines:
-  - Lola?
-  - Arry dear, you're awake! How's your sleep?
-  - Last night wasn't a nightmare, right? That was real?
-  - ...yes dear. You were nearly dragged away by a Sigbin.
-  - A Sigbin?
-  - Yes, they are the wicked pets of the Aswang. It was likely sent to look for victims.
-  - Tell me more, Lola.
-  - Very well. The Sigbin can shapeshift, go invisible, and even run backwards. Its
-    true form is that of a misshapen dog.
-  - How can I even avoid or see it, Lola?
-  - You listen for clapping.
-  - I see... what are its weaknesses po?
-  - The Sigbin are vulnerable to fire, my dear. Gather some oil and set it ablaze
-    while the Sigbin is distracted
-  - Anything else po?
-  - Hmmmm, the Sigbin can quicken your death by biting your shadow, so stay close
-    to the trees to avoid casting your own.
-  - I see po
-  - Why so curious all of the sudden, dear?
-  - I'm sorry I didn't believe you all this time, Lola. I didn't know monsters roamed
-    the forest for so long.
-  - Well, who do you think protected you? Haha!
-  - ...
-  - You're going after it yourself, aren't you dear?
-  - Heheh, is it that obvious, po?
-  - You have the same look as me, when I was younger.
-  - What look? :0
-  - The look of wanting to protect someone.
+  - Good morning po lola
+  - Good morning 'nak. How's your sleep?
+  - It was strangely okay po.
+  - I see, that is quite interesting. I am sure it means- *cough cough*
+  - Lola! Are you okay?
+  - I am fine deary, thank you for your concern. Just this old body catching up to
+    me.
+  - Mmm....
+  - However, your lack of dreams today is a good sign. It seems we can take it easy
+    dear.
+  - I see, but is there any chores I can do still? I want to help po.
+  - Hmmm you can pick some flowers we use for tea today.
+  - Sure lola!
+  - Oh, but still be careful, dear. I sense a sunshower will happen today, and the
+    Tikbalang are quite the celebrators.
+  - Why is that, po?
+  - Well, its because its their wedding! Heh!
+  - Oh.
+  - They are quite territorial, but they will just keep you in circles so you avoid
+    their home.
+  - What do I do if that happens po?
+  - If that happens, you wear your shirt in reverse or offer something to them as
+    a sign of peace.
   textSpeed: 0.5
   arry: {fileID: 755077164}
   lola: {fileID: 1985786483}

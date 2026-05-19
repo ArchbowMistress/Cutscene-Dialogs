@@ -342,42 +342,29 @@ MonoBehaviour:
   m_GameObject: {fileID: 356020121}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 56408dbac0cd73742804d16ab570d893, type: 3}
+  m_Script: {fileID: 11500000, guid: a55395a49d0e5dd46b34d1e2899f913d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1181608605}
   lines:
-  - Lola?
-  - Arry dear, you're awake! How's your sleep?
-  - Last night wasn't a nightmare, right? That was real?
-  - ...yes dear. You were nearly dragged away by a Sigbin.
-  - A Sigbin?
-  - Yes, they are the wicked pets of the Aswang. It was likely sent to look for victims.
-  - Tell me more, Lola.
-  - Very well. The Sigbin can shapeshift, go invisible, and even run backwards. Its
-    true form is that of a misshapen dog.
-  - How can I even avoid or see it, Lola?
-  - You listen for clapping.
-  - I see... what are its weaknesses po?
-  - The Sigbin are vulnerable to fire, my dear. Gather some oil and set it ablaze
-    while the Sigbin is distracted
-  - Anything else po?
-  - Hmmmm, the Sigbin can quicken your death by biting your shadow, so stay close
-    to the trees to avoid casting your own.
-  - I see po
-  - Why so curious all of the sudden, dear?
-  - I'm sorry I didn't believe you all this time, Lola. I didn't know monsters roamed
-    the forest for so long.
-  - Well, who do you think protected you? Haha!
-  - ...
-  - You're going after it yourself, aren't you dear?
-  - Heheh, is it that obvious, po?
-  - You have the same look as me, when I was younger.
-  - What look? :0
-  - The look of wanting to protect someone.
-  textSpeed: 0.5
-  arry: {fileID: 755077164}
-  lola: {fileID: 1985786483}
+  - Whoever reads this, beware of my wife.
+  - She has been dabbling in the magic of the aswang and loathe that I love her-
+  - I cannot in my conscience let anyone near her not know of the dangers.
+  - IF something ever happens-
+  - Whether something strange changing about her changing.
+  - Chant these Latin words.
+  - '"hic inserere verba latina"'
+  - One can do two things so stop her-
+  - You either scatter seeds on the ground to distract her and then chop her body
+    in half
+  - Or somehow trap her upside down over a fire, to draw out the cursed chick inside
+    her stomache.
+  - One will be easier to do than the other...
+  - But I still love my wife, so choose wisely.
+  - -Victor
+  textSpeed: 0
+  arry: {fileID: 0}
+  lola: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,11 +457,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &755077164 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7120848845323842193, guid: 164ee5407b09567469ff50a0ee6ee193, type: 3}
-  m_PrefabInstance: {fileID: 316156868}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1181608603
 GameObject:
   m_ObjectHideFlags: 0
@@ -772,11 +754,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d89a155fd4f19143be71d0537029d66, type: 3}
---- !u!1 &1985786483 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5868962284698856870, guid: 9d89a155fd4f19143be71d0537029d66, type: 3}
-  m_PrefabInstance: {fileID: 1985786482}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2124644125
 GameObject:
   m_ObjectHideFlags: 0
